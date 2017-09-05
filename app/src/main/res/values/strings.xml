@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BaseAdapterDemo</string>
+
+    <string-array name="persons">
+        <item>Parag Kadam$25$Pune</item>
+        <item>Elon Musk$47$New York</item>
+        <item>Rahul Dravid$44$Bangalore</item>
+        <item>Virat Kohli$28$Delhi</item>
+        <item>Angelina Jolie$40$Manhattan</item>
+        <item>Robert Downey Jr$51$San Francisco</item>
+        <item>Bruce Lee$33$Hong Kong</item>
+        <item>Prabhas$31$Hyderabad</item>
+        <item>John Abraham$43$Mumbai</item>
+        <item>Jack Dawson$27$Boston</item>
+        <item>Arnold Schwarzenegger$62$California</item>
+        <item>Bill Gates$59$NYC</item>
+        <item>Kevin pieterson$37$London</item>
+    </string-array>
+</resources>
